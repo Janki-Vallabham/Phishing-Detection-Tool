@@ -5,12 +5,16 @@ This application is designed to help users detect phishing websites based on the
 
 **Features**
 User-friendly Interface: A clean and intuitive interface using Streamlit.
+
 Real-time Predictions: Quickly get predictions on whether a website is a phishing site.
+
 Sidebar Navigation: Input features and navigate through instructions easily via the sidebar.
 
 **How to Use**
 Enter Features: Input the necessary features in the sidebar input box.
+
 Predict: Click on the 'Predict' button to get the result.
+
 View Result: The prediction result will be displayed on the main page.
 
 **Model**
@@ -18,7 +22,6 @@ The machine learning model (phishing.pkl) used in this application is pre-traine
 
 **File Structure**
 
-.
 ├── app.py                 # Main application file
 
 ├── phishing.pkl           # Pre-trained model file
